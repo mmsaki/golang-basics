@@ -5,9 +5,10 @@
     package main
     ```
 
-1. declare imports
+1. Declare imports
 
     ```go
+    // ./package.go
     package main
 
     import  (
@@ -16,7 +17,7 @@
     )
     ```
 
-1. declare main function
+1. Declare main function
 
     ```go
     package main
